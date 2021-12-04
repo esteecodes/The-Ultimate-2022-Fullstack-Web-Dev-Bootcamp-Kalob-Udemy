@@ -6,12 +6,19 @@
 
 ### Here is a [YouTube Video of my Workflow.](https://www.youtube.com/watch?v=mPhNIew8c50)
 
+The goal of the project was to replicate a website layout.<br>
+MY VERSION IS NOT RESPONSIVE AT THE MOMENT <br> 
+( responsiveness was not part of the project )
+
 <br>
 
 ## Update 
 
  ### The issue that I had with the orange circle is resolved 🙂 👍👍 And of course it was a super simple fix 😉 
  <br>
+
+ READ MORE ON [MY BLOG](https://esteecodes.com/css-201-frontend-web-development-workflow-video/) 
+ <br><br>
 
 ### Welcome to GitHub Pages
 
