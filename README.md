@@ -32,3 +32,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86M8BO)
