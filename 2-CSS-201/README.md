@@ -2,7 +2,6 @@
 
 #### Project for the [The Ultimate 2022 Fullstack Web Development Bootcamp](https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/)
 
-<br>
 
 ### Here is a [YouTube Video of my Workflow.](https://www.youtube.com/watch?v=mPhNIew8c50)
 
