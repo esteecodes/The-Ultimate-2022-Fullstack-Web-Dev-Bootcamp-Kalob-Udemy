@@ -8,6 +8,7 @@ body {
   font-weight: 500;
   font-style: normal;
   width: 100vw;
+  overflow-x: hidden;
 }
 
 nav {
@@ -64,15 +65,17 @@ nav a {
   overflow: hidden;
 }
 
-.header svg {
-  width: 77vh;
-  height: 77vh;
+.pink-circle {
+  width: 75vh;
+  height: 75vh;
   background-color: #d09f8e;
   position: absolute;
-  margin: 15vh -72vh;
+	top: 38vh;
+	left: -8vh;
   border-radius: 50%;
   z-index: 1;
 }
+
 
 .header h1 {
   font-family: orpheuspro, serif;
@@ -341,7 +344,6 @@ nav a {
 
 .article-two-right {
   width: 50%;
- overflow: hidden;
 }
 
 .article-two-right img {
@@ -350,19 +352,14 @@ nav a {
 }
 
 .orange-circle {
-  position: relative;
-  margin-top: -75vh;
-  margin-left: 65vw;
-  padding: 0;
-  max-width: 100vw;
-  overflow: hidden;
+  width: 75vh;
+  height: 75vh;
+  background-color: #bb6f1b;
+  position: absolute;
+  margin: -70vh 40vh;
+  border-radius: 50%;
   z-index: -1;
-}
-
-.orange-circle img {
-  position: relative;
-  padding-bottom: 6vh;
-
+	/* overflow-x: hidden; */
 }
 
 .recent-posts {
