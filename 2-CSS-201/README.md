@@ -6,6 +6,9 @@
 
 ### Here is a [YouTube Video of my Workflow.](https://www.youtube.com/watch?v=mPhNIew8c50)
 
+
+[<img src="https://esteecodes.com/wp-content/uploads/2021/12/CSS-201-thumbnail-play.jpg">](https://www.youtube.com/watch?v=mPhNIew8c50)
+
 The goal of the project was to replicate a website layout.<br>
 MY VERSION IS NOT RESPONSIVE AT THE MOMENT <br> 
 ( responsiveness was not part of the project )
