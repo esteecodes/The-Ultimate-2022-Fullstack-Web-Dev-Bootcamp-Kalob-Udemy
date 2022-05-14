@@ -1,5 +1,5 @@
 
-<a href="https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/"><h2> The Ultimate 2022 Fullstack Web Development Bootcamp</h2></a>
+<h2> <a href="https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/">The Ultimate 2022 Fullstack Web Development Bootcamp</a></h2>
 by Kane Ezki, Kalob Taulien and Radek Wilk 
 
 <p> Here I will be collecting some of the projects that I made while I was taking the course - </p>
