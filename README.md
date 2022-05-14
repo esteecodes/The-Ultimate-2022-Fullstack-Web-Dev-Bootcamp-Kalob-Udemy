@@ -4,9 +4,9 @@ by Kane Ezki, Kalob Taulien and Radek Wilk
 
 <p> Here I will be collecting some of the projects that I made while I was taking the course - </p>
 
-<h2><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">CSS 201</a></h2>
+<h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/2-CSS-201/" target="_blank">CSS 201</a></h2>
 <p> This project was about finding a web page that we like and replicating it as best as we can.</p>
-<h2><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">HTML 201</a></h2>
+<h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/1.%20HTML%20201%20with%20css%20version/" target="_blank">HTML 201</a></h2>
 <p> This project was about creating a web page only with the use of HTML tables. <br>
 And by 'only' they really meant only... But I didn't realize this <br> and I actually included some CSS.</p>
 
