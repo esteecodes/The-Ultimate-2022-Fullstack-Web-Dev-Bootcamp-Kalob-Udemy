@@ -1,0 +1,248 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap");
+
+// variables
+$frame-clr: #253b44;
+$light-gray: #bbb;
+$accent-text: #9054b8;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(#adadad, #5c5c5c);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Ubuntu", sans-serif;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+
+    .navbar {
+      background: $frame-clr;
+      width: 100vw;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.3rem 4rem;
+
+      .logo {
+        padding: 1rem;
+
+        a {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          text-decoration: none;
+          color: $light-gray;
+        }
+
+        img {
+          padding: 0 0.6rem;
+          margin: auto;
+        }
+
+        span {
+          margin: 0 0.3rem;
+          text-transform: uppercase;
+          color: $accent-text;
+          font-weight: bold;
+        }
+      }
+
+      .links {
+        display: flex;
+        align-items: baseline;
+
+        a {
+          color: $light-gray;
+          font-weight: bold;
+          text-decoration: none;
+
+          &:hover {
+            color: $accent-text;
+          }
+
+          &:last-child {
+            &:after {
+              display: none;
+            }
+          }
+
+          &:after {
+            content: "|";
+            padding: 0.8rem;
+            color: $accent-text;
+          }
+        }
+      }
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-gap: 1.5rem;
+      padding: 15rem 7rem;
+      height: 84.6vh;
+      color: #fff;
+
+      .card {
+        background-color: #42616d;
+        text-align: center;
+        width: 90%;
+        padding: 2rem;
+        border-radius: 0.6rem;
+        box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.3);
+
+        &:hover {
+          cursor: pointer;
+          transform: scale(1.2);
+          transition: all 0.2s ease-in-out;
+        }
+
+        img {
+          width: 100%;
+          border-radius: 0.54rem;
+          box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.3);
+        }
+
+        h3 {
+          line-height: 4rem;
+        }
+      }
+    }
+
+    footer {
+      background-color: $frame-clr;
+      width: 100vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: $light-gray;
+      padding: 1rem;
+      text-align: center;
+
+      p {
+        margin: 0.6rem;
+      }
+
+      a {
+        color: $light-gray;
+        text-decoration: none;
+
+        &:hover {
+          color: $accent-text;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 801px) and (max-width: 1400px) {
+  body {
+    .container {
+      main {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 1.6rem;
+        padding: 15rem 3rem;
+
+        .card {
+          &:last-child {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 501px) and (max-width: 800px) {
+  body {
+    .container {
+      .navbar {
+        flex-direction: column;
+        padding: 0.7rem 1rem 2rem;
+      }
+      main {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 1.6rem;
+        padding: 9rem 3rem;
+
+        .card {
+          &:nth-child(3) {
+            display: none;
+          }
+          &:last-child {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+    .container {
+      .navbar {
+        flex-direction: column;
+        padding: 0.7rem 1rem 2rem;
+
+        .logo {
+          padding: 0.5rem;
+          border-bottom: 2px solid $accent-text;
+        }
+
+        .links {
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+
+          a {
+            padding: 0.7rem;
+            text-align: center;
+
+            &:hover {
+              border-bottom: 2px solid $accent-text;
+            }
+
+            &:after {
+              display: none;
+            }
+          }
+        }
+      }
+      main {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 1.6rem;
+        padding: 9rem 3rem;
+
+        .card {
+          margin: auto;
+
+          &:nth-child(2) {
+            display: none;
+          }
+
+          &:nth-child(3) {
+            display: none;
+          }
+
+          &:last-child {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
