@@ -7,8 +7,12 @@ by Kane Ezki, Kalob Taulien and Radek Wilk
 <ul>
 
   <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-4-VS-Code-101/my_vscode-extensions_june_2022.jpg?raw=true" target="_blank">VS Code 101</a></h2><p>Screen capture of all my VS Code Extensions</p></li>
-  <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/1.%20HTML%20201%20with%20css%20version/" target="_blank">HTML 201</a></h2>
-<p>Using only HTML tables to create a webpage layout</p></li>
+  
+  <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-5-HTML-101/" target="_blank">HTML 101</a></h2>
+    <p>Using only HTML tables to create a webpage layout</p></li>
+  
+    <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/1.%20HTML%20201%20with%20css%20version/" target="_blank">HTML 201</a></h2>
+    <p>Using only HTML tables to create a webpage layout</p></li>
   <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/1.%20HTML%20201%20with%20css%20version/" target="_blank">HTML 201 with CSS</a></h2>
 <p>In my first version I used CSS because I didn't realize that I wasn't supposed to use CSS just yet</p></li>
   <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/2-CSS-201/" target="_blank">CSS 201</a></h2>
