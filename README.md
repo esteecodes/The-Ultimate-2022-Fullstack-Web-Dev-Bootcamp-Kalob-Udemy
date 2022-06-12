@@ -11,12 +11,11 @@ by Kane Ezki, Kalob Taulien and Radek Wilk
   <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-5-HTML-101/" target="_blank">HTML 101</a></h2>
     <p>Using only HTML tables to create a webpage layout</p></li>
   
-    <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/1.%20HTML%20201%20with%20css%20version/" target="_blank">HTML 201</a></h2>
-    <p>Using only HTML tables to create a webpage layout</p></li>
-  <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/1.%20HTML%20201%20with%20css%20version/" target="_blank">HTML 201 with CSS</a></h2>
-<p>In my first version I used CSS because I didn't realize that I wasn't supposed to use CSS just yet</p></li>
-  <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/2-CSS-201/" target="_blank">CSS 201</a></h2>
-<p> This project was about finding a web page that we like and replicating it as best as we can.</p></li>  
+  <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-6-HTML-201/" target="_blank">HTML 201</a></h2><p>Using only HTML tables to create a webpage layout</p></li>
+  
+  <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-6-HTML-201-and-CSS/" target="_blank">HTML 201 with CSS</a></h2><p>In my first version I used CSS because I didn't realize that I wasn't supposed to use CSS just yet</p></li>
+  
+  <li><h2><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-8-CSS-201/" target="_blank">CSS 201</a></h2><p>Replicating a web page of our choice</p></li>  
   
 </ul>
 
