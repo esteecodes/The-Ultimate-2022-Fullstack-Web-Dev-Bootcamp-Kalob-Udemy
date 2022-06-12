@@ -20,7 +20,7 @@ by Kane Ezki, Kalob Taulien and Radek Wilk
  <li><h3><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-9-CSS-301/" target="_blank">CSS 301</a></h3><p>Responsive design - CSS Grid, CSS Flexbox, Media Queries</p></li>
   
 </ul>
-
+<hr>
 
 <h3>Connect with me on Social Media ↓</h3>
 <br/>
