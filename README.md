@@ -19,7 +19,7 @@ by Kane Ezki, Kalob Taulien and Radek Wilk
   
  <li><h3><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-9-CSS-301/" target="_blank">CSS 301</a></h3><p>Responsive design - CSS Grid, CSS Flexbox, Media Queries</p></li>
   
- <li><h3><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-10-JavaScript-101/" target="_blank">JavaScript 101</a></h3><p>Some very simple JavaScript</p></li> 
+ <li><h3><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-10-JavaScript-101/" target="_blank">JavaScript 101</a></h3><p>Dog years calc with JavaScript</p></li> 
   
  <li><h3><a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/section-11-JavaScript-201/" target="_blank">JavaScript 201</a></h3><p>Working with APIs & fetch() method</p></li>   
   
