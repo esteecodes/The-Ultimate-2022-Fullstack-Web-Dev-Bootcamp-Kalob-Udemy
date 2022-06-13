@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(#8287af, #303c53);
+  color: #fff;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+body .container .card {
+  background-color: #4d8b8b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 55vw;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 0.8rem;
+  box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.3);
+}
+body .container .card .content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body .container .card .content img {
+  max-width: 50%;
+  padding: 1rem;
+}
+body .container .card .content div[class*=output] {
+  background-color: #e5fdfd;
+  color: grey;
+  display: block;
+  min-width: 60%;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 0.2rem;
+}
+body .container .card .content div[class*=output] ul {
+  text-align: left;
+  padding: 0 1rem 0 0.5rem;
+  list-style-type: none;
+}
+body .container .card button {
+  background-color: #74a1a1;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 1rem;
+  margin: 1.5rem;
+  border: none;
+  border-radius: 0.2rem;
+  box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.2), inset 0 0 5px 3px rgba(0, 0, 0, 0.2);
+}
+body .container .card button:hover {
+  background-color: #9bcaca;
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.2s ease-in-out;
+}
+body footer {
+  text-align: center;
+}
+body footer p {
+  color: #e5fdfd;
+}
+body footer a {
+  color: #74a1a1;
+  text-decoration: none;
+}
+body footer a:hover {
+  color: #9bcaca;
+}
